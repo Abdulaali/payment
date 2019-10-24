@@ -12,6 +12,8 @@
 			<include name="*.jar"/>
 		</fileset>
 	</path>
+
+
 	
 	<target name="init">
 		<mkdir dir="build/classes"/>
